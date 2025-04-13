@@ -4,4 +4,3 @@
 
 ## backend folder structure
 
-- ![image](youtubeclone\Screenshot 2025-02-01 164331.png)
